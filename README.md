@@ -28,3 +28,81 @@ Examines estimated TB burden and population-adjusted incidence to identify count
 Extends the analysis into reported program budgets, expenditures, resource utilization, and the relationship between disease burden and reported resources.
 
 > **Visual Walkthrough:** A 2 minute 50 second video demonstration of the Power BI report, including interactive tooltips and the analytical progression from disease burden to resource alignment, is included in this repository.
+---
+
+## Key Insights
+
+- An estimated **10.6 million TB cases** were identified globally for 2024 in the analysis.
+- Countries with the greatest estimated TB case burden are not necessarily the countries with the highest population-adjusted TB incidence.
+- **Seven countries** met the project's combined High-Burden / High-Incidence criteria, highlighting areas for further resource-allocation assessment.
+- Across reported TB program data for **2018–2024**, total expenditure represented **68.5% of reported budget**.
+- Resource utilization differed substantially by program component: **staff budget utilization was 92.1%**, compared with **38.3% for laboratory resources**.
+- Among high-burden countries with complete 2018–2024 financial reporting, several countries showed reported budget utilization near or below one-third, identifying areas for further investigation of resource deployment and alignment with TB burden.
+
+> These findings identify patterns and areas for further investigation. They should not be interpreted as conclusions about funding adequacy, program effectiveness, or causality.
+
+---
+
+## Analytical Methodology
+
+### TB Burden & Incidence
+
+The 2024 analysis examines two complementary measures:
+
+- **Estimated TB cases** — representing absolute disease burden.
+- **TB incidence per 100,000 population** — representing population-adjusted disease intensity.
+
+For this case study, a **High-High priority country** was defined as having:
+
+- **≥ 100,000 estimated TB cases**, and
+- **≥ 300 TB cases per 100,000 population**
+
+A prioritization score was then used to compare countries meeting both criteria:
+
+**Priority Score = 50% Relative TB Burden + 50% Relative TB Incidence**
+
+The score is an analytical framework developed for this portfolio case study and is not an official WHO prioritization methodology.
+
+### Resource Alignment
+
+Reported TB program budget and expenditure data were analyzed over the common **2018–2024** reporting period.
+
+Country-level utilization comparisons were limited to high-burden countries with complete financial reporting across the analysis period. Countries with incomplete expenditure reporting were excluded from the utilization ranking to improve comparability.
+
+---
+
+## Tools & Skills Demonstrated
+
+- **Python** — data preparation, cleaning, validation, and exploratory analysis
+- **MySQL** — structured querying and business analysis
+- **Power BI** — data modeling, DAX measures, interactive visualization, and analytical insights
+- **Data Modeling** — dimensional modeling and relationships across surveillance and financial datasets
+- **Data Validation** — aggregation checks, reporting-completeness assessment, and validation of analytical outputs
+- **Business Intelligence** — translating complex public-health data into decision-oriented insights
+- **Data Visualization & Storytelling** — connecting disease burden, prioritization, and resource utilization in an executive-level analytical narrative
+
+---
+
+## Data Source
+
+This project uses publicly available **World Health Organization (WHO) Global Tuberculosis Programme** surveillance and program data.
+
+The analysis combines TB burden, incidence, budget, expenditure, and related reporting information for the purposes of this independent Business Intelligence portfolio case study.
+
+WHO is the original source of the underlying public data. The analytical framework, calculations, visualizations, and interpretations presented in this project were developed independently for this portfolio analysis.
+
+---
+
+## AI-Assisted Workflow
+
+AI tools were used as a collaborative resource during the project to support **ideation, troubleshooting, analytical discussion, workflow refinement, and presentation development**.
+
+The analytical approach remained human-led, including decisions regarding data preparation, business questions, analytical methodology, validation, interpretation, and final presentation of the findings.
+
+---
+
+## Project Purpose
+
+This project was developed as a **Business Intelligence portfolio case study** demonstrating how public-health data can be transformed into structured analysis and decision-oriented insights through an end-to-end analytics workflow.
+
+**WHO Data → Python: Prep & Validation → MySQL: Analysis → Power BI: Modeling & Insights**
