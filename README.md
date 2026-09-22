@@ -27,7 +27,22 @@ Examines estimated TB burden and population-adjusted incidence to identify count
 **2 | TB Resource Allocation & Program Alignment**  
 Extends the analysis into reported program budgets, expenditures, resource utilization, and the relationship between disease burden and reported resources.
 
-> **Visual Walkthrough:** A 2 minute 50 second video demonstration of the Power BI report, including interactive tooltips and the analytical progression from disease burden to resource alignment, is included in this repository.
+>## Power BI Visual Walkthrough
+
+The Power BI case study is presented through two short visual walkthroughs that demonstrate the analytical progression from identifying areas of high TB need to examining reported program resources and utilization.
+
+### 1 | Where Is TB Need Greatest?
+
+Explore 2024 estimated TB burden, population-adjusted incidence, and the identification of countries meeting the project's combined High-Burden / High-Incidence criteria.
+
+▶ **[Watch Video 1 — TB Burden & Resource Prioritization](https://drive.google.com/file/d/1RgeCHVGN_azYxFJXzEmvZF_x9hAEINKp/view?usp=drive_link)**
+
+### 2 | Are Resources Aligned With Areas of Greatest Need?
+
+Explore reported TB program budgets, expenditures, resource utilization, and the relationship between disease burden and reported resources during the 2018–2024 analysis period.
+
+▶ **[Watch Video 2 — TB Resource Allocation & Program Alignment](https://drive.google.com/file/d/1qVQCsyuJqicIZijLl8HI0YRj2CYeWtQY/view?usp=drive_link)**
+
 ---
 
 ## Key Insights
