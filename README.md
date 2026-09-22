@@ -27,6 +27,12 @@ Examines estimated TB burden and population-adjusted incidence to identify count
 **2 | TB Resource Allocation & Program Alignment**  
 Extends the analysis into reported program budgets, expenditures, resource utilization, and the relationship between disease burden and reported resources.
 
+## Power BI Case Study Report
+
+The final two-page Power BI report presents the analytical progression from global TB burden and resource prioritization to TB program resource allocation and utilization.
+
+📄 **[View the 2-Page Power BI Case Study Report](dashboard/Global_TB_Business_Intelligence_Case_Study.pdf)**
+
 >## Power BI Visual Walkthrough
 
 The Power BI case study is presented through two short visual walkthroughs that demonstrate the analytical progression from identifying areas of high TB need to examining reported program resources and utilization.
