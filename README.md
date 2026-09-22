@@ -22,9 +22,11 @@ The analysis is organized around two connected questions:
 The final Power BI report consists of two connected analytical views:
 
 **1 | Global TB Burden & Resource Prioritization**  
+
 Examines estimated TB burden and population-adjusted incidence to identify countries where both measures indicate particularly high need.
 
 **2 | TB Resource Allocation & Program Alignment**  
+
 Extends the analysis into reported program budgets, expenditures, resource utilization, and the relationship between disease burden and reported resources.
 
 ## Power BI Case Study Report
@@ -33,7 +35,7 @@ The final two-page Power BI report presents the analytical progression from glob
 
 📄 **[View the 2-Page Power BI Case Study Report](dashboard/Global_TB_Business_Intelligence_Case_Study.pdf)**
 
->## Power BI Visual Walkthrough
+## Power BI Visual Walkthrough
 
 The Power BI case study is presented through two short visual walkthroughs that demonstrate the analytical progression from identifying areas of high TB need to examining reported program resources and utilization.
 
@@ -122,8 +124,4 @@ The analytical approach remained human-led, including decisions regarding data p
 
 ---
 
-## Project Purpose
 
-This project was developed as a **Business Intelligence portfolio case study** demonstrating how public-health data can be transformed into structured analysis and decision-oriented insights through an end-to-end analytics workflow.
-
-**WHO Data → Python: Prep & Validation → MySQL: Analysis → Power BI: Modeling & Insights**
